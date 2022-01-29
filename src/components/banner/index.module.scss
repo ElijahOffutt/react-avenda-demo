@@ -1,0 +1,21 @@
+.pageBanner{
+    background-image: url('');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-size: center center;
+    position: relative;
+    padding: 200px;
+    h1{
+        width: 100%;
+        text-align: center;
+        font-size: 2em;
+    }
+    .droppers{
+        position: absolute;
+        bottom: 0;
+        width: 100%;
+        .droppersContainer{
+            max-width: 1050px;
+        }
+    }
+}

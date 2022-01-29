@@ -1,0 +1,18 @@
+[
+    {
+        "text": "Contact Us",
+        "path": "/ContactUs"
+    },
+    {
+        "text": "Privacy Policy",
+        "path": "/PrivacyPolicy"
+    },
+    {
+        "text": "Terms Of Use",
+        "path": "/TermsOfUse"
+    },
+    {
+        "text": "News",
+        "path": "/News"
+    }
+]

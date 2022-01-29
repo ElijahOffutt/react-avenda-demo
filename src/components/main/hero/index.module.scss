@@ -1,0 +1,29 @@
+.mainHero{
+    height: 80vh;
+    background-image: url('https://www.avendahealth.com/wp-content/uploads/2020/08/Hero_flare-1.jpg');
+    background-position: left top;
+    background-size: cover;
+    .whiteBack{
+        width: 100%;
+        background-image: linear-gradient(to right, rgba(255,255,255, 0) 0%, white 100%);
+        position: relative;
+        .heroContent{
+            position: absolute;
+            top: 30vh;
+            width: 100%;
+            h2{
+                width: 100%; 
+                font-size: 3.5em;
+                text-align: center;
+                color: #2b388f;
+                i{color: #00adee;}
+            }
+            p{
+                margin-top: 30px;
+                font-size: 1.5em;
+                color: #2b388f;
+                width: 100%; 
+                text-align: center;}
+        }
+    }
+}

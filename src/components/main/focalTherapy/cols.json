@@ -1,0 +1,17 @@
+[
+    {
+        "text": "Plan",
+        "image": "https://www.avendahealth.com/wp-content/uploads/2020/07/plan.png",
+        "message": "Diagnostic information is used to create a patient-specific treatment plan."
+    },
+    {
+        "text": "Treat",
+        "image": "https://www.avendahealth.com/wp-content/uploads/2020/07/treat.png",
+        "message": "Targeted treatment is delivered through focal laser ablation in a physician’s office using only local anesthesia."
+    },
+    {
+        "text": "Confirm",
+        "image": "https://www.avendahealth.com/wp-content/uploads/2020/07/confirm.png",
+        "message": "Sensors monitor treatment progress in real-time, minimizing the impact to healthy tissue and preserving quality of life."
+    }
+]

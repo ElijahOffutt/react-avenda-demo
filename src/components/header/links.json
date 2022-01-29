@@ -1,0 +1,37 @@
+[
+    {
+        "text": "Pipeline",
+        "path": "/",
+        "hasLinks": true,
+        "links": [
+            {
+                "text": "AI-Enabled Cancer Mapping",
+                "path": "/AIMapping"
+            },
+            {
+                "text": "A Revolution in Prostate Cancer Therapy",
+                "path": "/ProstateCancerTherapy"
+            }
+        ]
+    },
+    {
+        "text": "Clinical Trials",
+        "path": "/ClinicalTrials",
+        "hasLinks": false
+    },
+    {
+        "text": "Our Team",
+        "path": "/OurTeam",
+        "hasLinks": false
+    },
+    {
+        "text": "News",
+        "path": "/News",
+        "hasLinks": false
+    },
+    {
+        "text": "Job Openings",
+        "path": "/JobOpenings",
+        "hasLinks": false
+    }
+]
