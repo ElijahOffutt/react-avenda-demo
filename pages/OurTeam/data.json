@@ -1,0 +1,172 @@
+{
+    "staff": [
+        {
+            "name": "Shyam Natarajan, PhD",
+            "image": "https://www.avendahealth.com/wp-content/uploads/2020/08/leadership-bio-natarajan.jpg",
+            "title": "Founder / CEO",
+            "items": [
+                "Expertise in image-guided interventions, machine learning, and embedded systems",
+                "Instrumental in the commercialization of targeted prostate biopsy creating and executing the foundational validation studies",
+                "Led an NIH-funded lab as a professor at UCLA Urology, Surgery, and Bioengineering"
+            ],
+            "hasLinkedIn": true,
+            "linkedIn": "https://www.linkedin.com/in/shyam-natarajan-71014033/"
+        },
+        {
+            "name": "Brit Berry-Pusey, PhD",
+            "image": "https://www.avendahealth.com/wp-content/uploads/2020/08/Brittany-B.jpg",
+            "title": "Founder / COO",
+            "items": [
+                "8+ years in Market Access, Contracts, Strategy, and Business Development in medical device, digital therapeutics, and pharma",
+                "UCLA and Stanford Graduate School of Business training",
+                "Expertise in Cardiology, Diabetes, Medical Imaging, Oncology, and Urology"
+            ],
+            "hasLinkedIn": true,
+            "linkedIn": "https://www.linkedin.com/in/brittany-berry-pusey-phd-68860921/"
+        },
+        {
+            "name": "Leonard S. Marks, MD",
+            "image": "https://www.avendahealth.com/wp-content/uploads/2020/08/leadership-bio-marks.jpg",
+            "title": "Founder / CMO",
+            "items": [
+                "Professor and deKernion Endowed Chair of Urology at UCLA",
+                "Pioneer and world leader in Targeted Prostate Biopsy, Active Surveillance, and Focal Therapy",
+                "150+ peer-reviewed publications, 30+ clinical trials, 10+ federal grants"
+            ],
+            "hasLinkedIn": false
+        },
+        {
+            "name": "Joshua Shubert",
+            "image": "https://www.avendahealth.com/wp-content/uploads/2020/08/leadership-bio-shubert.jpg",
+            "title": "AI Lead",
+            "items": [
+                "M.S. in Electrical Engineering from Johns Hopkins",
+                "Industry experience in cloud-based medical software",
+                "Background in deep learning, medical imaging, and robotics"
+            ],
+            "hasLinkedIn": true,
+            "linkedIn": "https://www.linkedin.com/in/joshua-shubert/"
+        },
+        {
+            "name": "Phillip Allen",
+            "image": "https://www.avendahealth.com/wp-content/uploads/2021/08/leadership-phil.jpg",
+            "title": "Director of Manufacturing Operations",
+            "items": [
+                "12+ years of leadership experience",
+                "Medical device industry background in Operations, Manufacturing Engineering, and New Product Introduction",
+                "Business training from the London School of Economics and Kelley School of Business "
+            ],
+            "hasLinkedIn": true,
+            "linkedIn": "https://www.linkedin.com/in/phillipallen66/"
+        },
+        {
+            "name": "Prateek Bhatnagar",
+            "image": "https://www.avendahealth.com/wp-content/uploads/2020/08/leadership-bio-Bhatnagar.jpg",
+            "title": "Software Engineer",
+            "items": [
+                "M.S. in Computer Science from Johns Hopkins",
+                "Background in medical imaging, mixed reality, and networking"
+            ],
+            "hasLinkedIn": true,
+            "linkedIn": "https://www.linkedin.com/in/pbhatna/"
+        },
+        {
+            "name": "Alan Priester, PhD",
+            "image": "https://www.avendahealth.com/wp-content/uploads/2020/08/leadership-bio-priester.jpg",
+            "title": "Data Scientist",
+            "items": [
+                "8+ years experience developing hardware and software for (and with) urologists",
+                "PhD in biomedical engineering from UCLA, specializing in image-guided diagnosis and therapy",
+                "Expertise in data science, medical imaging, and rapid prototyping"
+            ],
+            "hasLinked": true,
+            "linkedIn": "https://www.linkedin.com/in/alan-priester-42a1a434/"
+        },
+        {
+            "name": "Jeremy Bong",
+            "image": "https://www.avendahealth.com/wp-content/uploads/2020/08/leadership-bio-bong.jpg",
+            "title": "Sr. Cloud Engineer",
+            "items": [
+                "B.S. in Computer Science at University of Waterloo",
+                "Background in cloud architecture and full-stack",
+                "10+ years experience in professional software development"
+            ],
+            "hasLinked": true,
+            "linkedIn": "https://www.linkedin.com/in/jeremy-bong-b8181255/"
+        },
+        {
+            "name": "Crystal Womack",
+            "image": "https://www.avendahealth.com/wp-content/uploads/2021/08/leadership-crystal.jpg",
+            "title": "Quality Engineer",
+            "items": [
+                "BS in Chemical and Biomolecular Engineering from Georgia Tech",
+                "Design and manufacturing quality expertise",
+                "ISO 13485, ISO 14971 and Design Controls training"
+            ],
+            "hasLinked": true,
+            "linkedIn": "https://www.linkedin.com/in/crystal-womack-47314541/"
+        }
+    ],
+    "directors": [
+        {
+            "name": "Mike Klein",
+            "title": "Chairman and CEO, iCAD Medical."
+        },
+        {
+            "name": "Shyam Natarajan, PhD",
+            "title": "CEO, Avenda Health"
+        },
+        {
+            "name": "Leonard Marks, MD",
+            "title": "CMO, Avenda Health"
+        }
+    ],
+    "advisoryBoard": [
+        {
+            "name": "Simon Stertzer, MD, FACC, FAHA, FACP",
+            "title": "Serial Entrepreneur and Professor Emeritus Stanford University"
+        },
+        {
+            "name": "Peter T. Scardino, MD",
+            "title": "Chair Emeritus, Dept of Surgery Memorial Sloan-Kettering Cancer Center"
+        },
+        {
+            "name": "Eric Klein, MD",
+            "title": "Chairman, Glickman Urological and Kidney Institute Cleveland Clinic"
+        },
+        {
+            "name": "Alan Partin, MD",
+            "title": "Chairman, Dept of Urology Johns Hopkins"
+        },
+        {
+            "name": "Stuart Holden, MD",
+            "title": "Medical Director Prostate Cancer Foundation"
+        },
+        {
+            "name": "Michael Shabot, MD",
+            "title": "Former Executive Vice President Memorial Hermann Partner, Relia Healthcare Advisors"
+        },
+        {
+            "name": "Alec Koo, MD",
+            "title": "Director LUGPA"
+        },
+        {
+            "name": "Merel Nissenberg, JD",
+            "title": "President National Alliance of State Prostate Cancer Coalitions"
+        }
+    ],
+    "jump": [
+        {
+            "text": "Leadership",
+            "id": "leadership"
+        },
+        {
+            "text": "Board of Directors",
+            "id": "boardOfDirectors"
+        },
+        {
+            "text": "Medical Advisory Board",
+            "id": "medicalAdvisoryBoard"
+        }
+    ]
+}

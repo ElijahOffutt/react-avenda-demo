@@ -1,0 +1,13 @@
+.mainFooter{
+    background-color: #2b388f;
+    display: relative;
+    overflow: visible;
+    .mainFooterContent{
+        width: 1050px;
+    }
+    .footerGraphic{
+        position: absolute;
+        top: 0;
+        transform: translateY(-100%);
+    }
+}
